@@ -389,7 +389,7 @@ If you need the Figma files for the components you can check out our website for
 
 ## Copyright and license
 
-The Flowbite name and logos are trademarks of Crafty Dwarf Inc.
+The Flowbite name and logos are trademarks of Bergside Inc.
 
-📝 [Read about the licensing terms](https://flowbite.com/docs/getting-started/license/)
-📀 [Brand guideline and trademark usage agreement](https://flowbite.com/brand/)
+- 📝 [Read about the licensing terms](https://flowbite.com/docs/getting-started/license/)
+- 📀 [Brand guideline and trademark usage agreement](https://flowbite.com/brand/)
