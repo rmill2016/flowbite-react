@@ -58,6 +58,7 @@ export const NavbarIcons: FC = () => {
   const version = pkg?.version ?? 'latest';
   return (
     <div className="flex items-center gap-1">
+      <a href="/storybook">Storybook</a>
       <a
         href="https://flowbite-react-git-storybook-themesberg.vercel.app"
         className="hidden rounded-lg p-2.5 text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:text-gray-300 dark:hover:bg-gray-700 dark:focus:ring-gray-700 lg:block"
